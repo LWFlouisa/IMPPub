@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I want you to create an image.</pattern>
+    <template>
+      Redirecting to the Linguadapt application.
+      <system>cd _brains/Imagery/Generation; ruby generate.rb</system>
+    </template>
+  </category>
+<aiml>

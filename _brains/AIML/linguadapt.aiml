@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Will you adapt my words in my word list?</pattern>
+    <template>
+      Adapting word presented in word list in Linguadapt.
+      <system>cd _brains/Language/Adaptation; ruby linguadapt.rb</system>
+    </template>
+  </category>
+<aiml>

@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I want you to give me language statistics.</pattern>
+    <template>
+      Here is some statistics for the language data you provided in the input.
+      <system>cd _brains/Language/Statistics; ruby get_frequency.rb</system>
+    </template>
+  </category>
+<aiml>

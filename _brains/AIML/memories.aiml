@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Can you assess these memories?</pattern>
+
+    <template><system>cd _brains/Memories; ruby get_memories.rb</system></template>
+  </category>
+<aiml>

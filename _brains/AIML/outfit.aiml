@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I want you to decide an outfit for me.</pattern>
+    <template>
+      Here you go, I've created an outfit.
+      <system>cd _brains/DecisionMaking; ruby make_decision.rb</system>
+    </template>
+  </category>
+<aiml>
