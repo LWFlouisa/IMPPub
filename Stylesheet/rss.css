@@ -1,0 +1,38 @@
+rss {
+  display: block;
+  font-family: verdana, arial;
+}
+
+title {
+  display: block;
+  margin: 5px;
+  padding: 2px;
+  color: #25221F;
+  border-bottom: 1px solid #57514A;
+}
+
+link {
+  display: block;
+  font-size: small;
+  padding-left: 10px;
+}
+
+item {
+  display: block;
+  padding: 2px 30px 2px 30px;
+}
+
+docs {
+  display: block;
+  background-color: #25221F;
+  margin: 20px;
+  text-align: center;
+  padding: 5px;
+  color: #969FA8;
+  border: 1px solid #57514A;
+}
+
+/* all hidden elements */
+language, lastBuildDate, ttl, guid, category, description, pubDate {
+  display: none;
+}
