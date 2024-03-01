@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I want the date inside the command line.</pattern>
+    <template>
+      <system>espeak "Here is the current date inside the command line: "; date</system>
+    </template>
+  </category>
+<aiml>

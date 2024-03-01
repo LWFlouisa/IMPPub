@@ -1,0 +1,8 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>What time is it?</pattern>
+    <template>The current time is <system>date +'%T.'</system></template>
+  </category>
+<aiml>

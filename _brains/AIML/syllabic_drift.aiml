@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I would like to predict linguistic drift.</pattern>
+    <template>
+      Presenting prediction for linguistic drift.
+      <system>cd _brains/Language/SyllabicDrift; ruby predict_drift.rb</system>
+    </template>
+  </category>
+<aiml>

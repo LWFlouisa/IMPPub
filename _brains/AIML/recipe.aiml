@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>I want you to create a spice recipe.</pattern>
+    <template>
+      Here is a recipe for a spice mix.
+      <system>espeak -p 95 "Here is recipe for a spice mix."; ruby mix_spices.rb</system>
+    </template>
+  </category>
+<aiml>

@@ -1,0 +1,42 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Can you offer a suggestion for what you can do?</pattern>
+
+    <template>How about?
+      <random>
+        <li> "Write me a poem."</li>
+        <li> "I want you to create a spice recipe."</li>
+        <li> "Can you assess these memories?"</li>
+        <li> "I want you to create an image."</li>
+        <li> "Will you adapt my words in my word list?"</li>
+        <li> "What day is it?"</li>
+        <li> "I want you to give me language statistics."</li>
+        <li> "I would like to predict linguistic drift."</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>Give me another suggestion?</pattern>
+
+    <template>How about?
+      <random>
+        <li> "Write me a poem."</li>
+        <li> "I want you to create a spice recipe."</li>
+        <li> "Can you assess these memories?"</li>
+        <li> "I want you to create an image."</li>
+        <li> "Will you adapt my words in my word list?"</li>
+        <li> "What day is it?"</li>
+        <li> "I want you to give me language statistics."</li>
+        <li> "I would like to predict linguistic drift."</li>
+      </random>
+    </template>
+  </category>
+
+  <category>
+    <pattern>Can you do autocomplete?</pattern>
+    <template>No, but I can offer a random suggestion in real time.</template>
+  </category>
+<aiml>

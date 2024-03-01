@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<aiml version = "1.0.1" encoding = "UTF-8">
+  <category>
+    <pattern>Write me a poem.</pattern>
+    <template>
+      I've written a poem for you.
+      <system>espeak -p 95 "I've written a poem for you."; ruby execute_script.rb</system>
+    </template>
+  </category>
+<aiml>
