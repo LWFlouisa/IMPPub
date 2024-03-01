@@ -1,0 +1,3 @@
+<p>Result: basketcase => bazketcaze => basketcase
+Result: wheelbarrow => wheehbaddow => wheelbarrow
+Result: windmill => wndmhh => windmill</p>

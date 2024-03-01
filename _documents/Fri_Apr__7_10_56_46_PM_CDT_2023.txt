@@ -1,0 +1,33 @@
+<p>Result: basketcase => b 
+a 
+z 
+k 
+e 
+t 
+c 
+a 
+z 
+e </p>
+
+<p>=> Result: wheelbarrow => w 
+h 
+e 
+e 
+h 
+b 
+a 
+d 
+d 
+o 
+w </p>
+
+<p>=> Result: windmill => w </p>
+
+<p>n 
+d 
+m </p>
+
+<p>h 
+h </p>
+
+<p>=> </p>

@@ -1,0 +1,3 @@
+<p>Result: basketcase =>  => basketcase
+Result: wheelbarrow =>  => wheelbarrow
+Result: windmill =>  => windmill</p>
